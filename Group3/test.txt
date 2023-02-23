@@ -4,3 +4,4 @@ Gondoltam
 szám?
 nem
 tárgy?
+igen (kész a branch)
