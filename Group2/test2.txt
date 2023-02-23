@@ -1,0 +1,2 @@
+Ez lenne az?
+igen ezt tudtam push-al lokálból felküldeni
