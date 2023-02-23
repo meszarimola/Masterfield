@@ -2,3 +2,4 @@ Gondoltam egy számra
 páros?
 igen
 egyjegyű?
+igen
