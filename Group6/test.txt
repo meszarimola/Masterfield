@@ -3,3 +3,4 @@ páros?
 igen
 egyjegyű?
 igen
+csak egyenes vonalakból áll?
