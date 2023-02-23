@@ -3,3 +3,4 @@ szia, gondolok
 használati tárgy?
 igen
 irodai eszköz?
+nem
