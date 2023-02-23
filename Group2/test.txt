@@ -11,3 +11,4 @@ Igen az lesz
 Egy négylábú állat?
 Igen
 Vadon élő állat?
+Nem
