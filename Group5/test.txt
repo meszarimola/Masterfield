@@ -3,3 +3,4 @@ Nahát!
 Szerintem rossz helyre írtam korábban. Gondolom ide kell írni, nem a kommentekhez.
 Létrehozod a group 5 branch-et?
 Mondjuk aztán nem tudom, hogyan tovább...:9
+Felolvasta a neveket, hogy ki hozza létre az új branchet...:)
